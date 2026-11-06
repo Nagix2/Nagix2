@@ -17,7 +17,7 @@ eu defino a arquitetura, divido as tarefas, reviso o código e cuido do acabamen
 Hoje estou construindo a **O.R.L.A.**, um app desktop para Windows que reúne o status, as permissões e os avisos
 dos seus agentes numa ilha no topo da tela.
 
-<!-- Instagram: adicionar aqui quando o Christian passar o @ -->
+Acompanhe o desenvolvimento da O.R.L.A. no Instagram: **[@chr.devz](https://www.instagram.com/chr.devz/)**
 
 ---
 
@@ -127,5 +127,6 @@ flowchart LR
 
 <p align="center">
   <img src="assets/prism-orla.svg" alt="A O.R.L.A. feliz" width="72"><br>
-  <b>Na orla da sua tela.</b>
+  <b>Na orla da sua tela.</b><br>
+  <sub><a href="https://www.instagram.com/chr.devz/">Instagram @chr.devz</a></sub>
 </p>

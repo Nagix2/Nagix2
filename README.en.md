@@ -17,6 +17,8 @@ I define the architecture, split the work, review the code and own the final pol
 Right now I'm building **O.R.L.A.**, a Windows desktop app that brings your agents' status, permission requests
 and notifications together on an island at the top of your screen.
 
+Follow the development of O.R.L.A. on Instagram: **[@chr.devz](https://www.instagram.com/chr.devz/)**
+
 ---
 
 ## Featured project · O.R.L.A.
@@ -125,5 +127,6 @@ flowchart LR
 
 <p align="center">
   <img src="assets/prism-orla.svg" alt="O.R.L.A., happy" width="72"><br>
-  <b>On the edge of your screen.</b>
+  <b>On the edge of your screen.</b><br>
+  <sub><a href="https://www.instagram.com/chr.devz/">Instagram @chr.devz</a></sub>
 </p>
