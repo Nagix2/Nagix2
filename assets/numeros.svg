@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="1000" height="150" role="img" aria-label="18,7 mil linhas de código, 78 integrações, 8 agentes suportados, 44 modelos de Prisms, 100% local, sem telemetria">
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.15s" dur=".5s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 12" to="0 0" begin="0.15s" dur=".5s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .3 1"/>
+  <rect x="14" y="14" width="183.2" height="122" rx="16" fill="#18191c" stroke="#2a2840"/>
+  <text x="105.6" y="76" text-anchor="middle" font-family="'Segoe UI Variable','Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="36" font-weight="800" fill="#8a78ff">18,7 mil</text>
+  <text x="105.6" y="106" text-anchor="middle" font-family="'Segoe UI Variable','Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#9b9aae">linhas de código</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.30s" dur=".5s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 12" to="0 0" begin="0.30s" dur=".5s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .3 1"/>
+  <rect x="211.2" y="14" width="183.2" height="122" rx="16" fill="#18191c" stroke="#2a2840"/>
+  <text x="302.79999999999995" y="76" text-anchor="middle" font-family="'Segoe UI Variable','Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="36" font-weight="800" fill="#ecebf5">78</text>
+  <text x="302.79999999999995" y="106" text-anchor="middle" font-family="'Segoe UI Variable','Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#9b9aae">integrações</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.45s" dur=".5s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 12" to="0 0" begin="0.45s" dur=".5s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .3 1"/>
+  <rect x="408.4" y="14" width="183.2" height="122" rx="16" fill="#18191c" stroke="#2a2840"/>
+  <text x="500" y="76" text-anchor="middle" font-family="'Segoe UI Variable','Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="36" font-weight="800" fill="#ecebf5">8</text>
+  <text x="500" y="106" text-anchor="middle" font-family="'Segoe UI Variable','Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#9b9aae">agentes suportados</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.60s" dur=".5s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 12" to="0 0" begin="0.60s" dur=".5s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .3 1"/>
+  <rect x="605.5999999999999" y="14" width="183.2" height="122" rx="16" fill="#18191c" stroke="#2a2840"/>
+  <text x="697.1999999999999" y="76" text-anchor="middle" font-family="'Segoe UI Variable','Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="36" font-weight="800" fill="#ecebf5">44</text>
+  <text x="697.1999999999999" y="106" text-anchor="middle" font-family="'Segoe UI Variable','Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#9b9aae">modelos de Prisms</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.75s" dur=".5s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 12" to="0 0" begin="0.75s" dur=".5s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .3 1"/>
+  <rect x="802.8" y="14" width="183.2" height="122" rx="16" fill="#18191c" stroke="#2a2840"/>
+  <text x="894.4" y="76" text-anchor="middle" font-family="'Segoe UI Variable','Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="36" font-weight="800" fill="#ecebf5">100%</text>
+  <text x="894.4" y="106" text-anchor="middle" font-family="'Segoe UI Variable','Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#9b9aae">local, sem telemetria</text></g>
+</svg>

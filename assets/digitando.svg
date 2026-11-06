@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 315" width="900" height="315" role="img" aria-label="$ whoami: christian · desenvolvedor · criador da O.R.L.A. | $ cat foco.md: Ferramentas de desenvolvimento para quem programa com agentes de IA. | $ orla --status: v0.5.0-beta · Windows · 8 agentes · 78 integrações · 100% local | $ cat stack.txt: Electron · Node.js · JavaScript · SVG · PowerShell · C# · ESP32">
+<rect x=".5" y=".5" width="899" height="314" rx="14" fill="#0b0b0f" stroke="#2a2840"/>
+<path d="M14 .5h872a13.5 13.5 0 0 1 13.5 13.5v20H.5V14A13.5 13.5 0 0 1 14 .5z" fill="#15141d"/>
+<line x1="1" x2="899" y1="34.5" y2="34.5" stroke="#2a2840"/>
+<circle cx="22" cy="17.5" r="6" fill="#ff5f57"/><circle cx="42" cy="17.5" r="6" fill="#febc2e"/><circle cx="62" cy="17.5" r="6" fill="#28c840"/>
+<text x="450" y="22" text-anchor="middle" font-family="Consolas,'SFMono-Regular',Menlo,'DejaVu Sans Mono',monospace" font-size="13" fill="#9b9aae">christian@orla: ~</text>
+<clipPath id="cl0"><rect x="64.4" y="42" height="28" width="0"><animate attributeName="width" dur="13.21s" repeatCount="indefinite" keyTimes="0;0.0454;0.0772;0.9659;0.9667;1" values="0;0;59.599999999999994;59.599999999999994;0;0"/></rect></clipPath>
+<g opacity="0"><animate attributeName="opacity" dur="13.21s" repeatCount="indefinite" keyTimes="0;0.0454;0.0462;0.9659;0.9667;1" values="0;0;1;1;0;0"/>
+  <text x="26" y="62" font-family="Consolas,'SFMono-Regular',Menlo,'DejaVu Sans Mono',monospace" font-size="16" fill="#3ddc84" textLength="19.2" lengthAdjust="spacingAndGlyphs">~ </text><text x="45.2" y="62" font-family="Consolas,'SFMono-Regular',Menlo,'DejaVu Sans Mono',monospace" font-size="16" fill="#8a78ff">$</text>
+  <text x="64.4" y="62" font-family="Consolas,'SFMono-Regular',Menlo,'DejaVu Sans Mono',monospace" font-size="16" fill="#ecebf5" textLength="57.599999999999994" lengthAdjust="spacingAndGlyphs" clip-path="url(#cl0)">whoami</text></g>
+<rect y="47" width="9.6" height="19" fill="#8a78ff" opacity="0"><animate attributeName="x" dur="13.21s" repeatCount="indefinite" keyTimes="0;0.0454;0.0772;0.9659;0.9667;1" values="64.4;64.4;125;125;64.4;64.4"/>
+  <animate attributeName="opacity" dur="13.21s" repeatCount="indefinite" keyTimes="0;0.0454;0.0462;0.1037;0.1045;1" values="0;0;.9;.9;0;0"/></rect>
+<g opacity="0"><animate attributeName="opacity" dur="13.21s" repeatCount="indefinite" keyTimes="0;0.1037;0.1045;0.9659;0.9667;1" values="0;0;1;1;0;0"/>
+  <text x="26" y="89" font-family="Consolas,'SFMono-Regular',Menlo,'DejaVu Sans Mono',monospace" font-size="16" fill="#9b9aae">christian · desenvolvedor · criador da O.R.L.A.</text></g>
+<clipPath id="cl1"><rect x="64.4" y="96" height="28" width="0"><animate attributeName="width" dur="13.21s" repeatCount="indefinite" keyTimes="0;0.1983;0.2566;0.9659;0.9667;1" values="0;0;107.6;107.6;0;0"/></rect></clipPath>
+<g opacity="0"><animate attributeName="opacity" dur="13.21s" repeatCount="indefinite" keyTimes="0;0.1983;0.1991;0.9659;0.9667;1" values="0;0;1;1;0;0"/>
+  <text x="26" y="116" font-family="Consolas,'SFMono-Regular',Menlo,'DejaVu Sans Mono',monospace" font-size="16" fill="#3ddc84" textLength="19.2" lengthAdjust="spacingAndGlyphs">~ </text><text x="45.2" y="116" font-family="Consolas,'SFMono-Regular',Menlo,'DejaVu Sans Mono',monospace" font-size="16" fill="#8a78ff">$</text>
+  <text x="64.4" y="116" font-family="Consolas,'SFMono-Regular',Menlo,'DejaVu Sans Mono',monospace" font-size="16" fill="#ecebf5" textLength="105.6" lengthAdjust="spacingAndGlyphs" clip-path="url(#cl1)">cat foco.md</text></g>
+<rect y="101" width="9.6" height="19" fill="#8a78ff" opacity="0"><animate attributeName="x" dur="13.21s" repeatCount="indefinite" keyTimes="0;0.1983;0.2566;0.9659;0.9667;1" values="64.4;64.4;173;173;64.4;64.4"/>
+  <animate attributeName="opacity" dur="13.21s" repeatCount="indefinite" keyTimes="0;0.1983;0.1991;0.2831;0.2839;1" values="0;0;.9;.9;0;0"/></rect>
+<g opacity="0"><animate attributeName="opacity" dur="13.21s" repeatCount="indefinite" keyTimes="0;0.2831;0.2839;0.9659;0.9667;1" values="0;0;1;1;0;0"/>
+  <text x="26" y="143" font-family="Consolas,'SFMono-Regular',Menlo,'DejaVu Sans Mono',monospace" font-size="16" fill="#9b9aae">Ferramentas de desenvolvimento para quem programa com agentes de IA.</text></g>
+<clipPath id="cl2"><rect x="64.4" y="150" height="28" width="0"><animate attributeName="width" dur="13.21s" repeatCount="indefinite" keyTimes="0;0.3777;0.4466;0.9659;0.9667;1" values="0;0;126.8;126.8;0;0"/></rect></clipPath>
+<g opacity="0"><animate attributeName="opacity" dur="13.21s" repeatCount="indefinite" keyTimes="0;0.3777;0.3785;0.9659;0.9667;1" values="0;0;1;1;0;0"/>
+  <text x="26" y="170" font-family="Consolas,'SFMono-Regular',Menlo,'DejaVu Sans Mono',monospace" font-size="16" fill="#3ddc84" textLength="19.2" lengthAdjust="spacingAndGlyphs">~ </text><text x="45.2" y="170" font-family="Consolas,'SFMono-Regular',Menlo,'DejaVu Sans Mono',monospace" font-size="16" fill="#8a78ff">$</text>
+  <text x="64.4" y="170" font-family="Consolas,'SFMono-Regular',Menlo,'DejaVu Sans Mono',monospace" font-size="16" fill="#ecebf5" textLength="124.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#cl2)">orla --status</text></g>
+<rect y="155" width="9.6" height="19" fill="#8a78ff" opacity="0"><animate attributeName="x" dur="13.21s" repeatCount="indefinite" keyTimes="0;0.3777;0.4466;0.9659;0.9667;1" values="64.4;64.4;192.2;192.2;64.4;64.4"/>
+  <animate attributeName="opacity" dur="13.21s" repeatCount="indefinite" keyTimes="0;0.3777;0.3785;0.4731;0.4739;1" values="0;0;.9;.9;0;0"/></rect>
+<g opacity="0"><animate attributeName="opacity" dur="13.21s" repeatCount="indefinite" keyTimes="0;0.4731;0.4739;0.9659;0.9667;1" values="0;0;1;1;0;0"/>
+  <text x="26" y="197" font-family="Consolas,'SFMono-Regular',Menlo,'DejaVu Sans Mono',monospace" font-size="16" fill="#b3a5f6">v0.5.0-beta · Windows · 8 agentes · 78 integrações · 100% local</text></g>
+<clipPath id="cl3"><rect x="64.4" y="204" height="28" width="0"><animate attributeName="width" dur="13.21s" repeatCount="indefinite" keyTimes="0;0.5678;0.6366;0.9659;0.9667;1" values="0;0;126.8;126.8;0;0"/></rect></clipPath>
+<g opacity="0"><animate attributeName="opacity" dur="13.21s" repeatCount="indefinite" keyTimes="0;0.5678;0.5685;0.9659;0.9667;1" values="0;0;1;1;0;0"/>
+  <text x="26" y="224" font-family="Consolas,'SFMono-Regular',Menlo,'DejaVu Sans Mono',monospace" font-size="16" fill="#3ddc84" textLength="19.2" lengthAdjust="spacingAndGlyphs">~ </text><text x="45.2" y="224" font-family="Consolas,'SFMono-Regular',Menlo,'DejaVu Sans Mono',monospace" font-size="16" fill="#8a78ff">$</text>
+  <text x="64.4" y="224" font-family="Consolas,'SFMono-Regular',Menlo,'DejaVu Sans Mono',monospace" font-size="16" fill="#ecebf5" textLength="124.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#cl3)">cat stack.txt</text></g>
+<rect y="209" width="9.6" height="19" fill="#8a78ff" opacity="0"><animate attributeName="x" dur="13.21s" repeatCount="indefinite" keyTimes="0;0.5678;0.6366;0.9659;0.9667;1" values="64.4;64.4;192.2;192.2;64.4;64.4"/>
+  <animate attributeName="opacity" dur="13.21s" repeatCount="indefinite" keyTimes="0;0.5678;0.5685;0.6631;0.6639;1" values="0;0;.9;.9;0;0"/></rect>
+<g opacity="0"><animate attributeName="opacity" dur="13.21s" repeatCount="indefinite" keyTimes="0;0.6631;0.6639;0.9659;0.9667;1" values="0;0;1;1;0;0"/>
+  <text x="26" y="251" font-family="Consolas,'SFMono-Regular',Menlo,'DejaVu Sans Mono',monospace" font-size="16" fill="#9b9aae">Electron · Node.js · JavaScript · SVG · PowerShell · C# · ESP32</text></g>
+<g opacity="0"><animate attributeName="opacity" dur="13.21s" repeatCount="indefinite" keyTimes="0;0.7578;0.7585;0.9659;0.9667;1" values="0;0;1;1;0;0"/>
+  <text x="26" y="278" font-family="Consolas,'SFMono-Regular',Menlo,'DejaVu Sans Mono',monospace" font-size="16" fill="#3ddc84">~ </text><text x="45.2" y="278" font-family="Consolas,'SFMono-Regular',Menlo,'DejaVu Sans Mono',monospace" font-size="16" fill="#8a78ff">$</text>
+  <rect x="64.4" y="263" width="9.6" height="19" fill="#8a78ff"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.5;.5;1" dur="1s" repeatCount="indefinite"/></rect></g>
+</svg>
